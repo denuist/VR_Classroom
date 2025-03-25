@@ -1,0 +1,9 @@
+Model Background Information:
+* title:	Pikas
+* source: https://sketchfab.com/3d-models/vr-new-study-room-15423eec5ad94cb584a005099ee43443
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+This work is based on "Pikas" (https://sketchfab.com/3d-models/vr-new-study-room-15423eec5ad94cb584a005099ee43443) (https://creativecommons.org/licenses/by/4.0/)
